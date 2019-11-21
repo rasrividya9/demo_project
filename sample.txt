@@ -1,1 +1,4 @@
 sample Source file
+This is the change after stage
+This is change after com
+This is thirdLine
