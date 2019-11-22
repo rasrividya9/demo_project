@@ -3,3 +3,4 @@ This is the change after stage
 This is change after com
 This is thirdLine
 This is change in feature1 branch
+This is change in master branch
